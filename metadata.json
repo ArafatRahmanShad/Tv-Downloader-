@@ -1,0 +1,6 @@
+{
+  "name": "TV Downloader",
+  "description": "High-speed TV and NAS downloader with 32-thread multi-connection engine, torrent & magnet support, remote HTTP web panel, storage manager, and mobile remote control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
